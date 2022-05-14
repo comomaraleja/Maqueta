@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    
+}
+
+
+#acerca_de_mi{
+    display:flex;
+    padding: 5%;
+   
+}
+
+#encabezado{
+    text-align: center;
+}
+
+#banner{
+    width: 90%;
+    }
+
+#fotoperfil{
+    
+    width: 50%;
+    
+}
+
+#info{
+    margin-top: 30px;
+    color:aliceblue;
+    margin-left: 70px;
+}
+
+div{
+      
+    height: auto;
+    border-color: aquamarine;
+    border-width: 2px;
+}
+
+#acercade{
+    color:aquamarine;
+   
+   
+    margin-top: 100px;
+    
+    
+    
+}
+#experiencia{
+    padding:5%;
+    background-color: rgb(31, 90, 70);
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    color:aliceblue
+}
+
+#educacion{
+    margin-top: 50px;
+    color: aliceblue;
+    text-align: right;
+    margin-right: 70px;
+}
+
+#hyss{
+    margin-top: 100px;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(31, 90, 70);
+    padding:5%;
+}
+
+#titlep,#titleh{
+    text-align: center;
+    color: aqua;
+}
+
+#proyectos{
+
+    text-align: center;
+    padding: 5%;
+    margin-top: 100px;
+    color: aliceblue;
+
+}
