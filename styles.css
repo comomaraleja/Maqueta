@@ -56,6 +56,7 @@ div{
 }
 
 #educacion{
+    padding:5%;
     margin-top: 50px;
     color: aliceblue;
     text-align: right;
@@ -68,6 +69,8 @@ div{
     text-align: center;
     background-color: rgb(31, 90, 70);
     padding:5%;
+    margin-left: 70px;
+    margin-right: 70px;
 }
 
 #titlep,#titleh{
@@ -76,7 +79,7 @@ div{
 }
 
 #proyectos{
-
+    
     text-align: center;
     padding: 5%;
     margin-top: 100px;
